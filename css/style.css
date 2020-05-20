@@ -968,4 +968,8 @@ margin: 20px 0px;
 	bottom: 60px;
 	left:100px;
 }
+#plan .plan-main p{
+	margin: 0 auto;
+	width: auto;
+}
 }
