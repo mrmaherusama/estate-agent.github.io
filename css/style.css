@@ -963,4 +963,9 @@ margin: 20px 0px;
 #mess{
 	margin-top: 20px;
 }
+.social-icons-about{
+	position: absolute;
+	bottom: 60px;
+	left:80px;
+}
 }
