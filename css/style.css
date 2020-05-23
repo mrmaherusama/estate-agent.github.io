@@ -489,7 +489,7 @@ footer {
 }
 
 .mysocial li a {
-	display: inline-block;
+	display: block;
 	/* font-size: 35px; */
 	color: #ffffff;
 	background-color: #02ad88;
@@ -498,7 +498,7 @@ footer {
 	border-radius: 50%;
 	line-height: 35px;
 	text-align: center;
-	margin-right: 10px;
+
 
 }
 
@@ -763,7 +763,7 @@ max-width: 800px;
 }
 
 .mysocial-1 li a {
-	display: inline-block;
+	display:block;
 	/* font-size: 35px; */
 	color: #ffffff;
 	background-color: #02ad88;
@@ -772,7 +772,7 @@ max-width: 800px;
 	border-radius: 50%;
 	line-height: 35px;
 	text-align: center;
-	margin-right: 10px;
+	
 
 }
 .social-icons-about{
