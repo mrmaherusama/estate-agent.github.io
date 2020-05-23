@@ -781,6 +781,7 @@ max-width: 800px;
 left: 0;
 right: 0;
 margin: 0 auto;
+text-align: center;
 }
 #our-agents .card{
 	border: none;
@@ -978,6 +979,7 @@ margin: 20px 0px;
 	left: 0;
 	right: 0;
 	margin: 0 auto;
+	text-align: center;
 }
 #plan .plan-main p{
 	margin: 0 auto;
