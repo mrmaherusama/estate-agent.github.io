@@ -778,7 +778,8 @@ max-width: 800px;
 .social-icons-about{
 	position: absolute;
 	bottom: 60px;
-	left:60px;
+	left: 50%;
+	margin-left: -25%;
 }
 #our-agents .card{
 	border: none;
@@ -973,7 +974,8 @@ margin: 20px 0px;
 .social-icons-about{
 	position: absolute;
 	bottom: 60px;
-	left:100px;
+	left: 50%;
+	margin-left: -25%;
 }
 #plan .plan-main p{
 	margin: 0 auto;
